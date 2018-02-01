@@ -2144,8 +2144,8 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
-            "slides__autoplayInterval": 4000,
+            "slides__autoplay": true,
+            "slides__autoplayInterval": "5000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -2348,7 +2348,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2017-arbol-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2366,7 +2366,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2017-machina-1920x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
