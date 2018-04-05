@@ -44,7 +44,7 @@
       "settings": {
         "meta_descr": "Cv Semillero CINEVIVO. \nFacultad de Artes y Humanidades. Instituto Tecnológico Metropolitano.\nMedellin, Colombia 2018",
         "title": "Cv",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -943,7 +943,7 @@
       "settings": {
         "meta_descr": "Acerca de Semillero CINEVIVO. \nFacultad de Artes y Humanidades. Instituto Tecnológico Metropolitano.\nMedellin, Colombia 2018",
         "title": "Acerca de",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -1488,7 +1488,7 @@
       "settings": {
         "meta_descr": "Contactos Semillero CINEVIVO. \nFacultad de Artes y Humanidades. Instituto Tecnológico Metropolitano.\nMedellin, Colombia 2018",
         "title": "Contactos",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2101,7 +2101,7 @@
       "settings": {
         "meta_descr": "Festival ART (Arts in Real Time)",
         "title": "festival ART",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
