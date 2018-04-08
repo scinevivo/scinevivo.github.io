@@ -35,7 +35,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.0",
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -2762,6 +2762,9 @@
             },
             ".mbr-text UL": {
               "color": "#7f1933"
+            },
+            ".mbr-text P": {
+              "color": "#7f1933"
             }
           },
           "_name": "content12",
@@ -2892,6 +2895,70 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            ".mbr-text DIV": {
+              "color": "#7f1933"
+            },
+            ".mbr-text UL": {
+              "color": "#7f1933"
+            },
+            ".mbr-text P": {
+              "color": "#c7017f"
+            }
+          },
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#c7017f\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <div><b>FECHAS IMPORTANTES:</b></div><div><br></div><ul>\n                    <li><b>Lanzamiento: </b>05 de abril\n</li>\n                    <li>Inicio de registro: 05 de abril</li><li><b>Finalización de registro:</b> 29 de abril</li><li><b>Festival: </b>15, 16, 17 y 18 de mayo</li></ul><p><i>NOTA: Una vez terminado el registro cada participante recibirá en el correo electrónico suministrado, la credencial que lo acredita para el ingreso a la los eventos.</i></p><ul>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qOEhuoVQh6",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content12-1w"
         },
         {
           "_styles": {
