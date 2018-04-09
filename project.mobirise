@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Semillero Cinevivo",
-    "currentPage": "index.html",
+    "currentPage": "inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3200,7 +3200,7 @@
         }
       ]
     },
-    "index.html": {
+    "inicio.html": {
       "settings": {
         "main": true,
         "title": "CINEVIVO - Semillero de Investigación/Creación. Medellín Colombia. 2018.",
