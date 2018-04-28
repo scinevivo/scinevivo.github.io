@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Semillero Cinevivo",
-    "currentPage": "inicio.html",
+    "currentPage": "festivalART.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2660,22 +2660,6 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe4b5x60EN-C0edENhyj2DQ5dwyohtxHOwQOAgmDnXwSdqvGA/viewform\" target=\"_blank\">Formulario de Inscripción</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content8-18",
-          "_isUserblock": true,
-          "_cid": "qOjcA1TdkF",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
@@ -2945,13 +2929,16 @@
               }
             },
             ".mbr-text DIV": {
-              "color": "#7f1933"
+              "color": "#7f1933",
+              "text-align": "center"
             },
             ".mbr-text UL": {
-              "color": "#7f1933"
+              "color": "#7f1933",
+              "text-align": "left"
             },
             ".mbr-text P": {
-              "color": "#c7017f"
+              "color": "#c7017f",
+              "text-align": "left"
             }
           },
           "_name": "content12",
