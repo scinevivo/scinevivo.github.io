@@ -3901,7 +3901,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-primary display-5\" href=\"festivalART.html\" data-toolbar=\"-mbrBtnMove\">Información</a> <a data-app-btn=\"true\" class=\"btn  btn-primary display-5\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe4b5x60EN-C0edENhyj2DQ5dwyohtxHOwQOAgmDnXwSdqvGA/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Registrarse</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-primary display-5\" href=\"festivalART.html\" data-toolbar=\"-mbrBtnMove\">Información</a> ",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#ffffff"
               },
