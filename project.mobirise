@@ -35,7 +35,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.0",
-    "uniqCompNum": 84,
+    "uniqCompNum": 85,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -2559,6 +2559,21 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"programacion_ART.html\" target=\"_blank\">PROGRAMACIÓN OFICIAL DEL EVENTO</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qR6IB5t6s5",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content8-2c"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
@@ -2949,21 +2964,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#7f1933\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-5\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"programacion_ART.html\" target=\"_blank\">PROGRAMACIÓN</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qR6G6OzVfJ",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content8-2b"
         },
         {
           "_styles": {
@@ -3952,7 +3952,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-primary display-5\" href=\"festivalART.html\" data-toolbar=\"-mbrBtnMove\">Información</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-primary display-5\" href=\"festivalART.html\" data-toolbar=\"-mbrBtnMove\">Información</a> <a data-app-btn=\"true\" class=\"btn  btn-primary display-5\" href=\"programacion_ART.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROGRAMACIÓN</a> ",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#ffffff"
               },
