@@ -3933,7 +3933,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": "1000",
             "slides__showBullets": true,
             "slides": [
