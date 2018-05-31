@@ -3938,6 +3938,24 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/bg-cinevivo-1-1921x1080.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FACEBOOK</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">YOUTUBE</a>",
+                "overlayOpacity": "0"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/2015-l.ight.ve-cinema-ciclux-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
@@ -4101,7 +4119,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2017-arbol-1920x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
