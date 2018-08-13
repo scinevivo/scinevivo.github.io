@@ -1287,6 +1287,11 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qIp8N38pPH {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-image: url("../../../");
+}
 .cid-qIpUq0keuo .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1667,11 +1672,6 @@ body {
 .cid-qIpUq0keuo .nav-link:hover,
 .cid-qIpUq0keuo .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-qIp8N38pPH {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-image: url("../../../");
 }
 .cid-qIp9idfCJb {
   padding-top: 30px;
