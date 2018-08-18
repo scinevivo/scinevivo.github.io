@@ -9836,7 +9836,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#767676\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>\n                    RUIDO</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">Cinema expandido. imágenes sistema análogo y digital, sonido en vivo. &nbsp;(2016)</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#767676\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>\n                    NiHil CINEMA</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-7\">Cinema expandido. imágenes sistema análogo y digital, sonido en vivo. &nbsp;(2016)</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r16HDPL59T",
           "_protectedParams": [],
           "_global": false,
@@ -10133,24 +10133,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=8gS0MTWJONk&t=8s ",
-                "customStyle1": "display-2",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "title": "DIAPOSITIVA DE VIDEO",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Diapositiva con fondo de video de youtube y superposición con color. El título y el texto están alineados a la izquierda.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/02-960x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/01-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -10167,7 +10150,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/03-960x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/02-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -10184,7 +10167,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/08-960x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/03-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -10201,7 +10184,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/11-960x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/04-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -10218,7 +10201,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/05-960x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/06-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -10235,7 +10218,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/14-960x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/07-1920x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -10252,7 +10235,24 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/19-960x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/08-1920x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=8gS0MTWJONk&t=8s ",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "DIAPOSITIVA DE VIDEO",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Diapositiva con fondo de video de youtube y superposición con color. El título y el texto están alineados a la izquierda.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-507-2000x1337.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -10289,7 +10289,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>RUIDO (2016)</b></p><p>Pieza realizada por el colectivo CICLUX, un audiovisual de cinema expandido, resultado de la unión y el trabajo de los semilleros SIINTE (Universidad de Antioquia) y CINEVIVO (Instituto Tecnológico Metropolitano).\n</p><p>La pieza nos presenta una creación colectiva híbrida, que fusiona dispositivos de proyección análogos artesanales, dispositivos como proyectores de diapositivas, Retroproyectores y la proyección digital y la creación de música en vivo.&nbsp;</p><p><b><br></b></p><p><b>SINOPSIS</b></p><p><i>\"En nuestras ciudades estamos rodeados de RUIDO, a través de un viaje audiovisual llevaremos a la audiencia por un recorrido mostrando como este RUIDO se ha convertido en un personaje principal en nuestro show diario.\n</i></p><p><i>\n<span style=\"font-size: 1rem;\">La presentación usará el video mapping con muchas y diferentes tecnologías para crear un acto de live cinema para visitar una ciudad, cualquier ciudad.&nbsp;</span></i></p><p><i>\n<span style=\"font-size: 1rem;\">El colectivo ha construido proyectores artesanales, software a la medida y algunas interfaces que servirá para construir la pieza ladrillo a ladrillo, esta construcción estará a cargo de 18 personas en escena justo frente a sus ojos\". &nbsp;(</span></i><i style=\"font-size: 1rem;\"><span style=\"font-size: 1rem;\">ISEA. 2017)</span></i></p><p><span style=\"font-size: 1rem;\"><br></span></p><p><span style=\"font-size: 1rem;\">Sistemas de proyección análoga: Semillero SIINTE&nbsp;<br></span><span style=\"font-size: 1rem;\">Sistema de proyección digital: Semillero CINEVIVO&nbsp;<br></span><span style=\"font-size: 1rem;\">Sonido en vivo: Jaime Carvajal, Felipe González, Luis Castro&nbsp;<br></span><span style=\"font-size: 1rem;\">Diseño y Publicidad: Raúl Benito, Luis Castro&nbsp;<br></span><span style=\"font-size: 1rem;\">Contenido online: Colectivo CICLUX&nbsp;<br></span><span style=\"font-size: 1rem;\">Dirección: Liliana Correa / Luis Angel Castro</span></p><p><b style=\"font-size: 1rem;\"><br></b></p><p><b style=\"font-size: 1rem;\">PRESENTACIONES</b></p><p></p><div><span style=\"font-size: 1rem;\">Auditorio Parque Biblioteca de Belén. Marzo/2016</span></div><div><span style=\"font-size: 1rem;\">Centro Colombo americano. Medellin. Septiembre/2016</span></div><div>Muestra Intermediaciones, MAMM. Museo de Arte Moderno. Medellín. Octubre/2016</div><div>Auditorio Politecnico Jaime Isaza Cadavid. Medellín. Noviembre/2016</div><div>Auditorio Fundadores ISEA. Manizales (Caldas, Colombia). Junio/2017</div><div><br></div><div>\n</div><div><br></div><div><b>Agradecimientos</b></div><div><br></div><div>Facultad de Artes -&nbsp;<span style=\"font-size: 1rem;\">Universidad de Antioquia</span></div><div><span style=\"font-size: 1rem;\">Facultad de Artes y Humanidades -&nbsp;</span><span style=\"font-size: 1rem;\">Instituto Tecnológico Metropolitano</span><br></div><div><span style=\"font-size: 1rem;\">2016</span><br></div><div>\n</div><div><br></div><div>CICLUX* en <a href=\"https://www.youtube.com/watch?v=8gS0MTWJONk&t=8s\" target=\"_blank\">Youtube</a>\n</div><div>CICLUX* en <a href=\"https://web.facebook.com/ColectivoCiclux\" target=\"_blank\">FaceBook</a></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Nihil CINEMA (2016)</b></p><p>Pieza realizada por el colectivo CICLUX, un audiovisual de cinema expandido, resultado de la unión y el trabajo de los semilleros SIINTE (Universidad de Antioquia) y CINEVIVO (Instituto Tecnológico Metropolitano).\n</p><p>La pieza nos presenta una creación colectiva híbrida, que fusiona dispositivos de proyección análogos artesanales, dispositivos como proyectores de diapositivas, Retroproyectores y la proyección digital y la creación de música en vivo.&nbsp;</p><p><b><br></b></p><p><b>SINOPSIS</b></p><p>Pieza realizada como tributo a los 100 años del Dadaimo.</p><p><span style=\"font-size: 1rem;\"><br></span></p><p><span style=\"font-size: 1rem;\">Sistemas de proyección análoga: Semillero SIINTE&nbsp;<br></span><span style=\"font-size: 1rem;\">Sistema de proyección digital: Semillero CINEVIVO&nbsp;<br></span><span style=\"font-size: 1rem;\">Sonido en vivo: Felipe González, Esteban Betancur<br>Programación: Esteban Betancur.<br></span><span style=\"font-size: 1rem;\">Diseño y Publicidad: Sara Patiño, Luis Castro.<br></span><span style=\"font-size: 1rem;\">Contenido online: Colectivo CICLUX&nbsp;<br></span><span style=\"font-size: 1rem;\">Dirección: Liliana Correa / Luis Angel Castro</span></p><p><b style=\"font-size: 1rem;\"><br></b></p><p><b style=\"font-size: 1rem;\">PRESENTACIONES</b></p><p>Muestra de Videoarte para verte mejor. Popayán, Cauca. Colombia. Noviembre/2016<br>Exploratorio Parque Explora, Medellín, Colombia. Diciembre/2016</p><div>\n</div><div><br></div><div><b>Agradecimientos</b></div><div><br></div><div>Facultad de Artes -&nbsp;<span style=\"font-size: 1rem;\">Universidad de Antioquia</span></div><div><span style=\"font-size: 1rem;\">Facultad de Artes y Humanidades -&nbsp;</span><span style=\"font-size: 1rem;\">Instituto Tecnológico Metropolitano</span><br></div><div><span style=\"font-size: 1rem;\">2016</span><br></div><div>\n</div><div><br></div><div>CICLUX* en Youtube\n</div><div>CICLUX* en <a href=\"https://web.facebook.com/ColectivoCiclux\" target=\"_blank\">FaceBook</a></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r16HDQYGhZ",
           "_protectedParams": [],
           "_global": false,
