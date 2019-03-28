@@ -36,7 +36,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.0",
-    "uniqCompNum": 169,
+    "uniqCompNum": 170,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "google-analytics": "",
@@ -11241,13 +11241,207 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>IMAGO CORPUS</b></p><p>“Lo más profundo que hay en el hombre es la piel” (Paul Valéry)\n</p><p>Todo cuerpo es en cierta medida un relato fragmentado, un espacio por recorrer, un lugar por habitar, una imagen por construir; desde estas premisas surge Imago Corpus, la cual busca generar una reflexión en torno a la idea de cuerpo, entendiendo este mismo como una construcción social e histórica, el espacio y la imagen, y la relación entre estos tres, Involucrando de esta manera el uso de procesos análogos/mecánicos y el uso de procesos digitales como medios expresivos y de producción.\n</p><p>\n</p><p>Imago Corpus es una pieza de Cinema expandido donde confluyen de manera híbrida dispositivos análogos y digitales, técnicas de ilustración y animación digital con sonido en vivo, los cuales son producidos con dos sistemas desarrollados en el contexto de nuestro semillero, CineVivo App para el control visual y Chmusick para el control del audio.</p><p><i>Concepto Artistico: Raul Benito (Artista visual) + Cinevivo.</i></p><p><br></p><p><span style=\"font-size: 1rem;\"><b>Presentaciones:&nbsp;</b></span></p><p></p><div>CATTLEYA (fiesta electrónica). Siete Ovejas cultura | Bar. Medellín, Colombia. Agosto 2018</div><div><br></div><div>In VITRO (Inauguracion catedra Luis albero Alvarez). Teatro Universidad de Antioquia Medellín, Co, Noviembre 2018.</div><div>\n</div><div><br></div><div>Animación: Edwin cortés, Laura Gil, Raúl Benito, Esteban Betancur, Alejandra García, Luis Castro</div><div>Ilustración: Raul Benito.</div><div>Edición y postproducción: Luis Castro</div><div>Asistente de producción: Tatiana Durán</div><div>Live Act: Tatiana Durán, Lauira Gil, Alejandra Garcia.</div><div>Sonido en vivo: Raul Benito, Esteban Betancur.</div><div>Contenido online: Semillero CINEVIVO\n</div><div>Diseño y Publicidad: Semillero CINEVIVO\n</div><div><br></div><div>Dirección: Luis Angel Castro\n</div><div>\n</div><div><br></div><div>Facultad de Artes y Humanidades\n</div><div>Instituto Tecnológico Metropolitano\n</div><div><span style=\"font-size: 1rem;\">2018.</span></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>IMAGO CORPUS</b></p><p>“Lo más profundo que hay en el hombre es la piel” (Paul Valéry)\n</p><p>Todo cuerpo es en cierta medida un relato fragmentado, un espacio por recorrer, un lugar por habitar, una imagen por construir; desde estas premisas surge Imago Corpus, la cual busca generar una reflexión en torno a la idea de cuerpo, entendiendo este mismo como una construcción social e histórica, el espacio y la imagen, y la relación entre estos tres, Involucrando de esta manera el uso de procesos análogos/mecánicos y el uso de procesos digitales como medios expresivos y de producción.\n</p><p>\n</p><p>Imago Corpus es una pieza de Cinema expandido donde confluyen de manera híbrida dispositivos análogos y digitales, técnicas de ilustración y animación digital con sonido en vivo, los cuales son producidos con dos sistemas desarrollados en el contexto de nuestro semillero, CineVivo App para el control visual y Chmusick para el control del audio.</p><p><i>Concepto Artistico: Raul Benito (Artista visual) + Cinevivo.</i></p><p><br></p><p><span style=\"font-size: 1rem;\"><b>Presentaciones:&nbsp;</b></span></p><p></p><div>CATTLEYA (fiesta electrónica). Siete Ovejas cultura | Bar. Medellín, Colombia. Agosto 2018</div><div><br></div><div>In VITRO (Inauguracion catedra Luis albero Alvarez). Teatro Universidad de Antioquia Medellín, Co, Noviembre 2018.</div><div>\n</div><div><br></div><div>Animación: Edwin cortés, Laura Gil, Raúl Benito, Esteban Betancur, Alejandra García, Luis Castro</div><div>Ilustración: Raul Benito.</div><div>Edición y postproducción: Luis Castro</div><div>Asistente de producción: Tatiana Durán</div><div>Live Act: Tatiana Durán, Lauira Gil, Alejandra Garcia.</div><div>Sonido en vivo: Raul Benito, Esteban Betancur.</div><div>Contenido online: Semillero CINEVIVO\n</div><div>Diseño y Publicidad: Semillero CINEVIVO\n</div><div><br></div><div>Dirección: Luis Angel Castro\n</div><div>\n</div><div><br></div><div>Facultad de Artes y Humanidades\n</div><div>Instituto Tecnológico Metropolitano\n</div><div><span style=\"font-size: 1rem;\">2018.</span></div><div><span style=\"font-size: 1rem;\"><br></span></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r1789gGUdH",
           "_anchor": "content1-4m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
+            },
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
+            },
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
+            },
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              }
+            },
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+                }
+              }
+            }
+          },
+          "_name": "gallery3",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\"></div>\n    </div>\n\n</section>",
+          "_cid": "rm25OmLJpu",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
+          "_params": {
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
+              {
+                "tags": "Increíble",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ic-0004-2-1920x15856.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ic-0004-2-1920x1585-800x660.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ic-0005-1-1920x15857.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ic-0005-1-1920x1585-800x660.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": false
+              },
+              {
+                "tags": "Creativa",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ic-0000-6-1920x15858.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ic-0000-6-1920x1585-800x660.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": false
+              },
+              {
+                "tags": "Animada",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ic-0002-4-1920x15859.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ic-0002-4-1920x1585-800x660.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": false
+              },
+              {
+                "tags": "Increíble",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ic-0003-3-1920x158510.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ic-0003-3-1920x1585-800x660.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": false
+              },
+              {
+                "tags": "Increíble",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ic-0001-5-1920x158511.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ic-0001-5-1920x1585-800x660.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ic-0007-1-1920x1585.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ic-0007-1-1920x1585-800x660.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": false
+              },
+              {
+                "tags": "Animada",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ic-0006-1-1920x1585.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ic-0006-1-1920x1585-800x660.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery3-4p"
         },
         {
           "_styles": {
