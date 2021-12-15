@@ -56,7 +56,7 @@
     "sitemapSwitcher": false,
     "cookiesAlert": false,
     "mbrsiteDomain": "osuycydgtp",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "gdpr": false
   },
   "pages": {
