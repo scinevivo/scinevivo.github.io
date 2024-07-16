@@ -56,7 +56,7 @@
     "sitemapSwitcher": false,
     "cookiesAlert": false,
     "mbrsiteDomain": "xbjvwr1ebz",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false,
     "usedWebp": false
   },
